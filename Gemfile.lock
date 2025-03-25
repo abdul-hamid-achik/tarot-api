@@ -714,7 +714,7 @@ GEM
     ruby-progressbar (1.13.0)
     ruby_audit (3.0.0)
       bundler-audit (~> 0.9.0)
-    secure_headers (6.7.0)
+    secure_headers (7.1.0)
     securerandom (0.4.1)
     semantic_logger (4.16.1)
       concurrent-ruby (~> 1.0)
@@ -880,7 +880,7 @@ DEPENDENCIES
   rubocop-rails-omakase
   ruby-openai (~> 8.0.0)
   ruby_audit
-  secure_headers (~> 6.5)
+  secure_headers (~> 7.1)
   semantic_logger (~> 4.15)
   shoulda-matchers
   sidekiq

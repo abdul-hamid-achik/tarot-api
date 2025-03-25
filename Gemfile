@@ -95,7 +95,7 @@ gem "rubocop", "~> 1.62", require: false
 # gem "devise", "~> 4.9"           # Authentication
 gem "cancancan", "~> 3.5"        # Authorization
 gem "rack-attack", "~> 6.7"      # Rate limiting
-gem "secure_headers", "~> 6.5"   # Security headers
+gem "secure_headers", "~> 7.1"   # Security headers
 # gem "bcrypt", "~> 3.1"           # Password hashing
 gem "jwt", "~> 2.7"              # JSON Web Tokens
 
