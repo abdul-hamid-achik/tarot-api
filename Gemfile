@@ -114,7 +114,7 @@ group :development, :test do
 
   # load environment variables from .env file
   # Using plain dotenv for Rails 8 compatibility, not dotenv-rails
-  gem "dotenv", "~> 2.8.1"
+  gem "dotenv", "~> 3.1.7"
 
   # test coverage reporting
   # gem "simplecov", require: false
