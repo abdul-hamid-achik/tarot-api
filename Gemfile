@@ -85,7 +85,7 @@ gem "rainbow", "~> 3.1.1"
 gem "semantic_logger", "~> 4.15"  # Structured logging with JSON support
 gem "rails_semantic_logger", "~> 4.15"  # Rails integration for semantic_logger
 gem "lograge", "~> 0.14.0"       # Request logging in JSON format
-gem "http_logger", "~> 0.7"      # HTTP request logging
+gem "http_logger", "~> 1.0"      # HTTP request logging
 gem "rack-cache", "~> 1.14.0"
 gem "request_store", "~> 1.5.1"
 gem "responders"

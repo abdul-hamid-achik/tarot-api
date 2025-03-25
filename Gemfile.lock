@@ -241,7 +241,7 @@ GEM
       google-protobuf (>= 3.18, < 5.a)
     hashdiff (1.1.2)
     hashie (5.0.0)
-    http_logger (0.7.0)
+    http_logger (1.0.1)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     io-console (0.8.0)
@@ -838,7 +838,7 @@ DEPENDENCIES
   dotenv (~> 2.8.1)
   factory_bot_rails (~> 6.4)
   faker (~> 3.2)
-  http_logger (~> 0.7)
+  http_logger (~> 1.0)
   jbuilder
   jsonapi-serializer
   jwt (~> 2.7)
