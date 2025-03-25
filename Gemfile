@@ -144,7 +144,7 @@ group :development, :test do
 end
 
 # aws services
-gem "aws-sdk-ssm", "~> 1.0"
+gem "aws-sdk-ssm", "~> 1.192"
 
 # ai integration
 # Commenting out due to ARM compatibility issues in Docker builds
