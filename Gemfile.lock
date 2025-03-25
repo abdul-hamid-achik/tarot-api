@@ -646,7 +646,7 @@ GEM
     regexp_parser (2.10.0)
     reline (0.6.0)
       io-console (~> 0.5)
-    request_store (1.5.1)
+    request_store (1.7.0)
       rack (>= 1.4)
     responders (3.1.1)
       actionpack (>= 5.2)
@@ -870,7 +870,7 @@ DEPENDENCIES
   rainbow (~> 3.1.1)
   redis (>= 4.0.1)
   redis-client (~> 0.19)
-  request_store (~> 1.5.1)
+  request_store (~> 1.7.0)
   responders
   rspec-rails (~> 6.1.0)
   rswag-api
