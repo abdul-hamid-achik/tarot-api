@@ -115,7 +115,7 @@ GEM
     bigdecimal (3.1.9)
     bootsnap (1.18.4)
       msgpack (~> 1.2)
-    brakeman (6.2.2)
+    brakeman (7.0.0)
       racc
     builder (3.3.0)
     bundle-audit (0.1.0)
@@ -825,7 +825,7 @@ DEPENDENCIES
   aws-sdk-s3
   aws-sdk-ssm (~> 1.0)
   bootsnap
-  brakeman (~> 6.0)
+  brakeman (~> 7.0)
   bundle-audit (~> 0.1.0)
   cancancan (~> 3.5)
   connection_pool (~> 2.4)
