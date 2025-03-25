@@ -163,7 +163,7 @@ gem "activestorage-validator"
 # Testing
 group :test do
   # Use RSpec for testing
-  gem "rspec-rails", "~> 6.1.0"
+  gem "rspec-rails", "~> 7.1.1"
   gem "factory_bot_rails", "~> 6.4"
   gem "faker", "~> 3.2"
   gem "simplecov", "~> 0.22.0", require: false
