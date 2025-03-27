@@ -89,7 +89,7 @@ gem "http_logger", "~> 0.7"      # HTTP request logging
 gem "rack-cache", "~> 1.14.0"
 gem "request_store", "~> 1.5.1"
 gem "responders"
-gem "rubocop", "~> 1.62", require: false
+gem "rubocop", "~> 1.75", require: false
 
 # Security-related gems
 # gem "devise", "~> 4.9"           # Authentication
