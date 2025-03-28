@@ -56,7 +56,7 @@ gem "devise", "~> 4.9"
 gem "devise_token_auth", "~> 1.2"
 gem "omniauth", "~> 2.1"
 gem "stripe"
-gem "pay", "~> 8.3.0"
+gem "pay", "~> 9.0.1"
 gem "pundit", "~> 2.3"  # For policy-based authorization
 
 # llm and ai related gems
